@@ -26,7 +26,9 @@ Subrutines for screens:
 ### Screenshots
 
 ![Main menu](images/main-menu.png)
+
 Main Menu.
 
 ![Create customer](images/create-customer.png)
+
 Create customer view.
