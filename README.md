@@ -23,3 +23,10 @@ Subrutines for screens:
 - SUB230: UI: Search customer
 - SUB240: UI: About
 
+### Screenshots
+
+![Main menu](images/main-menu.png)
+Main Menu.
+
+![Create customer](images/create-customer.png)
+Create customer view.
